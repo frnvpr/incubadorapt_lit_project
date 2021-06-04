@@ -1,2 +1,2 @@
 # incubadorapt_lit_project
-Literature platform for portuguese-speaking writers.
+Literature platform for portuguese-speaking writers @ incubadoraPt DAO
