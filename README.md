@@ -2,4 +2,4 @@
 Literature platform for portuguese-speaking writers @ incubadoraPt DAO
 
 
-visual presentation: visual presentation.md
+visual presentation: visual_presentation.md
