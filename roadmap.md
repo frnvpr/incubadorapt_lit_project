@@ -1,7 +1,11 @@
 The roadmap for this project is:
+
 1st trimester:
+
 2nd trimester:
+
 3rd trimester:
+
 4th trimester:
 
 
