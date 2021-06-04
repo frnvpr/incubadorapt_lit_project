@@ -34,6 +34,12 @@ The NEAR ecosystem and the crypto space in general can help artists from all lan
 
 
 original gov.near.org proposal post: https://gov.near.org/t/video-presentation-bring-in-poets-and-writers-from-the-portuguese-speaking-world-to-create-their-own-literary-nfts/1901
+
+
 visual presentation: https://github.com/frnvpr/incubadorapt_lit_project/blob/main/video_presentation.md
+
+
 video presentation: https://github.com/frnvpr/incubadorapt_lit_project/blob/main/video_presentation.md
+
+
 roadmap: https://prezi.com/i/jn58cdiyjz5z/incubadorapt-dao-roadmap/
