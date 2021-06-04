@@ -42,4 +42,4 @@ visual presentation: https://github.com/frnvpr/incubadorapt_lit_project/blob/mai
 video presentation: https://github.com/frnvpr/incubadorapt_lit_project/blob/main/video_presentation.md
 
 
-roadmap: https://prezi.com/i/jn58cdiyjz5z/incubadorapt-dao-roadmap/
+roadmap: https://github.com/frnvpr/incubadorapt_lit_project/blob/main/roadmap.md
